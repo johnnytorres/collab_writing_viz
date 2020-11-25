@@ -1,1 +1,1 @@
-# collab_writing_viz
+# Visualization of collaborative writing in google documents
